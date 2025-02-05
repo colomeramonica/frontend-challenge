@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Profile Card',
+  title: 'Add to Cart',
 };
 
 export default function RootLayout({
